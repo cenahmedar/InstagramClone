@@ -1,5 +1,5 @@
 # InstagramClone
-Instagram clone app
+Instagram clone Android app
 
 <img src="IMAGE/instagram.png" width="100" >
 
