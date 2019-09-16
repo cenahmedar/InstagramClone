@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffffff</color> <!--actionbar vs -->
+    <color name="colorPrimaryDark">#D2D2D2</color> <!--up to acion bar vs -->
+    <color name="colorAccent">#000000</color>  <!-- smallbutton colors -->
+
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="whitecustom">#FAFAFA</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_grey">#80000000</color>
+    <color name="new_grey">#D2D2D2</color>
+
+
+    <color name="colorCharcoalGray">#353b48</color>
+    <color name="colorBlueGray">#7f8fa6</color>
+
+    <color name="background_holo_light">#fff3f3f3</color>
+    <color name="background_holo_light_sec">#757575</color>
+
+
+    <color name="pink">#ff0266</color>
+    <color name="link_blue">#005ce6</color>
+    <color name="grey">#bfbfbf</color>
+</resources>

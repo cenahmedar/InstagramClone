@@ -1,0 +1,35 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Base application theme. -->
+    <style name="AppThemeNoActionBar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item> <!--toolbar back -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item><!--most top color -->
+        <item name="colorAccent">@color/colorAccent</item><!--dont know yet-->
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:actionMenuTextColor">@color/white</item>
+    </style>
+
+    <style name="MyToolbar">
+        <item name="navigationIcon">@drawable/ic_back</item>
+        <item name="android:background">?colorPrimary</item>
+        <item name="android:textColorPrimary">@color/colorCharcoalGray</item><!--toolbar textColor -->
+        <item name="android:textColorSecondary">@color/colorCharcoalGray</item><!--toolbar textColor -->
+        <item name="tint">@color/colorCharcoalGray</item>
+    </style>
+
+
+    <style name="nav_bar_theme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/pink</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/pink</item>
+    </style>
+</resources>
